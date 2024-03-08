@@ -1,3 +1,9 @@
 ## March 08
 ### EEE 443
-- Satellite Introduction 
+- Satellite Introduction
+### EEE 431
+- 15 Chotha : Page 179 - 189
+  - Digital Filter Bank
+  - Digital Filter Bank vs Wavelet
+  - IDFT Matrix for Digital Filter Bank
+  - Lth Band Decomposition
