@@ -7,3 +7,7 @@
   - Digital Filter Bank vs Wavelet
   - IDFT Matrix for Digital Filter Bank
   - Lth Band Decomposition
+## March 09
+### EEE 437
+- Chotha : Page 1 - 34
+- Lecture : 02 (Upto Doppler shift)
