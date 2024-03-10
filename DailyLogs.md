@@ -1,3 +1,12 @@
+## March 10
+### EEE 431
+- Book (Hayes) : nonparametric spectral estimates 
+
+## March 09
+### EEE 437
+- Chotha : Page 1 - 34
+- Lecture : 02 (Upto Doppler shift)
+
 ## March 08
 ### EEE 443
 - Satellite Introduction
@@ -7,7 +16,3 @@
   - Digital Filter Bank vs Wavelet
   - IDFT Matrix for Digital Filter Bank
   - Lth Band Decomposition
-## March 09
-### EEE 437
-- Chotha : Page 1 - 34
-- Lecture : 02 (Upto Doppler shift)
