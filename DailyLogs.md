@@ -1,3 +1,7 @@
+## March 12
+### EEE 437
+- Lecture : 03 (reading and examples)
+
 ## March 10
 ### EEE 431
 - Book (Hayes) : nonparametric spectral estimates 
