@@ -1,6 +1,12 @@
+## March 13
+### EEE 431
+- MVSE
+
 ## March 12
 ### EEE 437
 - Lecture : 03 (reading and examples)
+### EEE 403
+- Path planning
 
 ## March 10
 ### EEE 431
