@@ -1,6 +1,16 @@
+## March 14
+### EEE 437
+- Lecture : 05 Diversity
+### EEE 431
+- Parametric methods
+### EEE 403
+- Week 05 : Robot Sensors
+  
 ## March 13
 ### EEE 431
 - MVSE
+### EEE 437
+- Lecture : 05 Diversity
 
 ## March 12
 ### EEE 437
